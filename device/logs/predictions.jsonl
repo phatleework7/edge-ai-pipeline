@@ -1,2 +1,4 @@
 {"x": 1.05, "y": 1.0, "prediction": "A", "distance": 0.05, "latency_ms": 0.003}
 {"x": 1.0, "y": 1.1, "prediction": "A", "distance": 0.1, "latency_ms": 0.002}
+{"x": 1.0, "y": 1.1, "prediction": "A", "distance": 0.1, "latency_ms": 0.003}
+{"x": 4.1, "y": 3.9, "prediction": "B", "distance": 0.1795, "latency_ms": 0.003}

@@ -66,3 +66,5 @@ python3 src/observe.py
 5. Xuat ONNX va benchmark latency.
 6. Dua pipeline len GitHub Actions va Docker.
 # edge-ai-pipeline
+
+check
